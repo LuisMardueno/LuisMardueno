@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello there 👋
+![](https://images.cooltext.com/5582491.png) 
 
-<!--
-**LuisMardueno/LuisMardueno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hola que tal mi  nombre es Luis Mardueño soy estudiante de Ingenieria en el Insitutto Tecnologico de Tijuana.
+Mis intereses principales son la seguridad informatica y IoT
+Tengo mas de 2 años trabajando en distintos proyectos de hacking a equipo de maquinaria industrial o ECMs.
 
-Here are some ideas to get you started:
+Mi horario actual
+| Horario     | Materia                | Dias          |
+|-------------|------------------------|---------------|
+| 11:00-12:00 | Calculo Vectorial      | Lunes-Viernes |
+| 13:00-14:00 | Invest. de Operaciones | Lunes-Jueves  |
+| 14:00-15:00 | Taller Base de datos   | Lunes-Jueves  |
+| 15:00-16:00 | Lenuajes y Automatas I | Lunes-Viernes |
+| 16:00-17:00 | Lenguajes de Interface | Lunes-Jueves  |
+| 17:00-18:00 | Sistemas Operativos    | Lunes-Jueves  |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
