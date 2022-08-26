@@ -1,6 +1,7 @@
 ### Hello there 👋
 ![](https://images.cooltext.com/5582491.png) 
-![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://assets.materialup.com/uploads/6bf40d09-fe0d-47e2-9039-20d11ff4f659/preview.gif))
+
+![]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://assets.materialup.com/uploads/6bf40d09-fe0d-47e2-9039-20d11ff4f659/preview.gif))
 
 Hola que tal mi  nombre es Luis Mardueño soy estudiante de Ingenieria en el Insitutto Tecnologico de Tijuana.
 Mis intereses principales son la seguridad informatica y IoT
